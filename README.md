@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A Vue Shop
 
 An e-commerce sample website built with Vue JS, using vuex and vue-router.
@@ -18,3 +19,7 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 ```
+=======
+# Simple_Store_Vue
+Simple shop store
+>>>>>>> ba0a4d91ff22d38e76b488830170143515dd467c
